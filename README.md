@@ -17,13 +17,14 @@ Ex-criador de cheats em C# migrando para o lado Blue Team. Apaixonado por entend
 - **Fundamentos de TI: Hardware e Software** - Fundação Bradesco - 7h
 - **Cultura Digital** - Fundação Bradesco - 6h
 
-### 📚 Roadmap Atual
-Fase 0: Lógica de Programação (fazendo)
-Fase 1: C# Avançado + POO
-Fase 2: Python + Redes
-Fase 3: Cybersecurity Essentials + TryHackMe
+### 🗺️ Roadmap Atual
+- **Fase 0:** Lógica de Programação (fazendo)
+- **Fase 1:** C# Avançado + POO
+- **Fase 2:** Python + Redes
+- **Fase 3:** Cybersecurity Essentials + TryHackMe
 
 > "Decompilar pra entender, não pra quebrar."
 
 ### 📈 GitHub Stats
-[Yuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=YURI-KYAN&show_icons=true&theme=tokyonight)
+![Yuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=YURI-KYAN&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YURI-KYAN&layout=compact&theme=tokyonight)
