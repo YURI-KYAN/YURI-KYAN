@@ -5,7 +5,7 @@
 📍 Linhares - ES
 
 ### 🚀 Sobre mim
-Ex-criador de cheats em C# migrando para o lado Blue Team. Apaixonado por entender como as coisas funcionam por dentro - decompilar, analisar e proteger.
+Apaixonado por entender como as coisas funcionam por dentro - decompilar, analisar e proteger.
 
 ### 🛠️ Tech Stack
 - **Linguagens:** C#, Python
