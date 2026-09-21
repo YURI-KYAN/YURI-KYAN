@@ -26,4 +26,4 @@ Fase 3: Cybersecurity Essentials + TryHackMe
 > "Decompilar pra entender, não pra quebrar."
 
 ### 📈 GitHub Stats
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=YURI-KYAN&show_icons=true&theme=tokyonight)
+[Yuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=YURI-KYAN&show_icons=true&theme=tokyonight)
