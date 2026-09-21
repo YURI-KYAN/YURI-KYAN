@@ -26,4 +26,6 @@ Apaixonado por entender como as coisas funcionam por dentro - decompilar, analis
 > "Decompilar pra entender, não pra quebrar."
 
 ### 📈 GitHub Stats
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=YURI-KYAN&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YURI-KYAN&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YURI-KYAN&layout=compact&theme=dark)
