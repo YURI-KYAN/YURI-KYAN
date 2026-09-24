@@ -18,7 +18,7 @@ Apaixonado por entender como as coisas funcionam por dentro - decompilar, analis
 - **Cultura Digital** - Fundação Bradesco - 6h
 
 ### 📚 Roadmap Atual
-- **Fase 0:** Lógica de Programação (fazendo)
+- **Fase 0:** Lógica de Programação 
 - **Fase 1:** C# Avançado + POO
 - **Fase 2:** Python + Redes
 - **Fase 3:** Cybersecurity Essentials + TryHackMe
