@@ -8,7 +8,7 @@
 Apaixonado por entender como as coisas funcionam por dentro - decompilar, analisar e proteger.
 
 ### 🛠️ Tech Stack
-- **Linguagens:** C#, Python
+- **Linguagens:** C#, Python, JavaScript
 - **Foco:** Cybersecurity, Reverse Engineering, Estrutura de Dados
 - **Ferramentas:** Git, GitHub, Ghidra, ILSpy
 
